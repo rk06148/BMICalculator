@@ -1,2 +1,2 @@
 # BMICalculator
-It is a BMI (Body Mass Index) Website.
+It is a BMI (Body Mass Index) Calculator Website.
